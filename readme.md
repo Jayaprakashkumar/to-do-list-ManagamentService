@@ -1,3 +1,5 @@
+## Start the server : npm start
+
 Routes:
 
 1. Create list : http://localhost:3000/lists
@@ -19,3 +21,6 @@ Routes:
 9. Update a Item : http://localhost:3000/item/:itemId
 
 10. Delete a item : http://localhost:3000/item/:itemId
+
+
+Github link : https://github.com/Jayaprakashkumar/to-do-list-ManagamentService-
