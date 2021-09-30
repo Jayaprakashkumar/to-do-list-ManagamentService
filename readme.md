@@ -23,4 +23,4 @@ Routes:
 10. Delete a item : http://localhost:3000/item/:itemId
 
 
-Github link : https://github.com/Jayaprakashkumar/to-do-list-ManagamentService-
+Github link : https://github.com/Jayaprakashkumar/to-do-list-ManagamentService
